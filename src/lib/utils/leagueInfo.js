@@ -21,9 +21,8 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 // To omit an optional field, set it's value to null
 
 export const managers = [
-    // 1
     {
-      "manager_id": 739970545868775424,
+      "managerID": 739970545868775424,
       "name": "Alec",
       "location": "Moorpark", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -41,9 +40,8 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // 2
     {
-      "manager_id": 739371163117076480,
+      "managerID": 739371163117076480,
       "name": "Jimmy",
       "location": "Ontario", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -63,9 +61,8 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // 3
     {
-      "manager_id": 997032649027837952,
+      "managerID": 997032649027837952,
       "name": "Matt",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -85,9 +82,8 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // 4
     {
-      "manager_id": 995558183005589504,
+      "managerID": 995558183005589504,
       "name": "Jayden",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -107,9 +103,8 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // 5
     {
-      "manager_id": 995378163645521920,
+      "managerID": 995378163645521920,
       "name": "Nicole",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -129,9 +124,8 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // 6
     {
-      "manager_id": 869326799639830528,
+      "managerID": 869326799639830528,
       "name": "Chris",
       "location": "Glendale" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -151,9 +145,8 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // 7
     {
-      "manager_id": 866149385531187200,
+      "managerID": 866149385531187200,
       "name": "Daniel",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -173,9 +166,8 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // 8
     {
-      "manager_id": 740041646107938816,
+      "managerID": 740041646107938816,
       "name": "Taylor",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -195,9 +187,8 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // 9
     {
-      "manager_id": 739976487784054784,
+      "managerID": 739976487784054784,
       "name": "Narek",
       "location": "Glendale" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -217,9 +208,8 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // 10
     {
-      "manager_id": 739970923859480576,
+      "managerID": 739970923859480576,
       "name": "Geoff",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -239,9 +229,8 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // 11
     {
-      "manager_id": 739970908969656320,
+      "managerID": 739970908969656320,
       "name": "Ramon",
       "location": "Glendale", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -261,9 +250,8 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // 12
     {
-      "manager_id": 739970812207063040,
+      "managerID": 739970812207063040,
       "name": "Jeremy",
       "location": "???", // (optional)
     //   "bio": "Lorem ipsum...",
