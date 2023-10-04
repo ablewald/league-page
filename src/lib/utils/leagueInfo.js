@@ -185,17 +185,17 @@ export const managers = [
     {
       "managerID": "739970923859480576",
       "name": "Geoff",
-      "location": "???" // (optional)
+      "location": "Glendale" // (optional)
     //   "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-    //   "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-    //   "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
+      "favoriteTeam": "no", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "rival": {
     //     name: "Rival", // Can be anything (usually your rival's name)
     //     link: 6, // manager array number within this array, or null to link back to all managers page
     //     image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
     //   },
-    //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 289, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
