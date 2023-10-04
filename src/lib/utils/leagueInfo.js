@@ -22,7 +22,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "managerID": 739970545868775424,
+      "managerID": "739970545868775424",
       "name": "Alec",
       "location": "Moorpark", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -41,7 +41,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": 739371163117076480,
+      "managerID": "739371163117076480",
       "name": "Jimmy",
       "location": "Ontario", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -62,7 +62,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": 997032649027837952,
+      "managerID": "997032649027837952",
       "name": "Matt",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -83,7 +83,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": 995558183005589504,
+      "managerID": "995558183005589504",
       "name": "Jayden",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -104,7 +104,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": 995378163645521920,
+      "managerID": "995378163645521920",
       "name": "Nicole",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -125,7 +125,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": 869326799639830528,
+      "managerID": "869326799639830528",
       "name": "Chris",
       "location": "Glendale" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -146,7 +146,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": 866149385531187200,
+      "managerID": "866149385531187200",
       "name": "Daniel",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -167,7 +167,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": 740041646107938816,
+      "managerID": "740041646107938816",
       "name": "Taylor",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -188,7 +188,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": 739976487784054784,
+      "managerID": "739976487784054784",
       "name": "Narek",
       "location": "Glendale" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -209,7 +209,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": 739970923859480576,
+      "managerID": "739970923859480576",
       "name": "Geoff",
       "location": "???" // (optional)
     //   "bio": "Lorem ipsum...",
@@ -230,7 +230,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": 739970908969656320,
+      "managerID": "739970908969656320",
       "name": "Ramon",
       "location": "Glendale", // (optional)
     //   "bio": "Lorem ipsum...",
@@ -251,7 +251,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": 739970812207063040,
+      "managerID": "739970812207063040",
       "name": "Jeremy",
       "location": "???", // (optional)
     //   "bio": "Lorem ipsum...",
