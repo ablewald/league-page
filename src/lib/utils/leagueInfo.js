@@ -27,7 +27,7 @@ export const managers = [
       "location": "Moorpark", // (optional)
     //   "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2011, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "rival": {
     //     name: "Rival", // Can be anything (usually your rival's name)
@@ -95,17 +95,17 @@ export const managers = [
     {
       "managerID": "995378163645521920",
       "name": "Nicole",
-      "location": "???" // (optional)
+      "location": "Glendale", // (optional)
     //   "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-    //   "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-    //   "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "fantasyStart": 2023, // (optional) when did the manager start playing fantasy football
+      "favoriteTeam": "lv", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "rival": {
     //     name: "Rival", // Can be anything (usually your rival's name)
     //     link: 6, // manager array number within this array, or null to link back to all managers page
     //     image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
     //   },
-    //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 515 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
@@ -149,17 +149,17 @@ export const managers = [
     {
       "managerID": "740041646107938816",
       "name": "Taylor",
-      "location": "Torrance" // (optional)
+      "location": "Torrance", // (optional)
     //   "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2017, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "lar", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "la", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "rival": {
     //     name: "Rival", // Can be anything (usually your rival's name)
     //     link: 6, // manager array number within this array, or null to link back to all managers page
     //     image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
     //   },
-      "favoritePlayer": 4984, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 4984 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
@@ -167,11 +167,11 @@ export const managers = [
     {
       "managerID": "739976487784054784",
       "name": "Narek",
-      "location": "Glendale" // (optional)
+      "location": "Glendale", // (optional)
     //   "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
     //   "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-    //   "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "mia" // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "rival": {
     //     name: "Rival", // Can be anything (usually your rival's name)
     //     link: 6, // manager array number within this array, or null to link back to all managers page
@@ -185,17 +185,17 @@ export const managers = [
     {
       "managerID": "739970923859480576",
       "name": "Geoff",
-      "location": "Glendale" // (optional)
+      "location": "Glendale", // (optional)
     //   "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2011, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "no", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     //   "rival": {
     //     name: "Rival", // Can be anything (usually your rival's name)
     //     link: 6, // manager array number within this array, or null to link back to all managers page
     //     image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
     //   },
-      "favoritePlayer": 289, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 289 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     //   "philosophy": "Your fantasy team's philosophy",
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
